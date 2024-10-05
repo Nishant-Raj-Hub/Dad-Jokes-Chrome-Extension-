@@ -1,0 +1,43 @@
+/* Set the background and size of the popup */
+body {
+  margin: 0;
+  padding: 10px;
+  width: 300px;
+  height: 400px;
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%);
+  color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+/* Style the container for the joke content */
+#jokeElement {
+  font-size: 18px;
+  color: #fff;
+  margin: 0;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Button styling for getting new jokes */
+button {
+  margin-top: 20px;
+  background-color: #ff0066;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #d40054;
+}
