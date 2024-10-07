@@ -9,10 +9,10 @@ Alternatively, you can download the ZIP file from the repository.
 
 
 Open Chrome or brave:
-Launch the Google Chrome browser on your computer.
+Launch the Google Chrome or brave browser on your computer.
 
 Access Extensions Page:
-In the Chrome address bar, type chrome://extensions/ and press Enter to open the Extensions page.
+In the Chrome address bar, type chrome://extensions/ or brave://extensions/ and press Enter to open the Extensions page.
 
 Enable Developer Mode:
 In the top right corner of the Extensions page, toggle the Developer mode switch to ON.
